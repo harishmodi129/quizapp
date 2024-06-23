@@ -1,6 +1,5 @@
 {
   "homepage": "https://harishmodi129.github.io/quizapp",
-  "name": "quizapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
