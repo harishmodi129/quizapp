@@ -1,0 +1,10 @@
+.quiz_container {
+  background-color: grey;
+  text-align: left;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.list_item {
+  list-style: none;
+}
